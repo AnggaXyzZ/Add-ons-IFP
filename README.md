@@ -40,7 +40,9 @@ Berikut ini adalah daftar fitur yang didukung oleh addon
 
 ## Installation
 
-1. [Download](https://github.com/AnggaXyzZ/Add-ons-DragonFF.git) file zip addon dari cabang master terbaru 
+| Add-ons | LINK |
+|--------|--------|
+| **CLICK** |[here](https://github.com/AnggaXyzZ/Add-ons-IFP.git) |
 
 ## Python Module
 
@@ -53,3 +55,9 @@ Skrip python telah dirancang dengan mempertimbangkan penggunaan kembali. Saat in
 * [X] - COL - `col.py`
 * [X] - IPL/IDE - `map.py`
 * [x] - IFP - `ifp.py`
+
+## SUPPORT ME
+
+| SUPPORT ME | LINK |
+|------------|------|
+| **SAWERIA** |[here](https://saweria.co/AnggaXyzz) |
