@@ -12,9 +12,9 @@
 <a href="#"><img title="AnggaXyzz" src="https://img.shields.io/badge/AnggaXyzz-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://wa.me/6281997496643"><img title="Author" src="https://img.shields.io/badge/Author-AnggaXyzz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-<a href="https://youtube.com/@AnggaXyzz"><img title="YouTube" src="https://img.shields.io/badge/YouTube-AnggaXyzz/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
-<a href="https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"><img title="Group AnggaBotz-MD" src="https://img.shields.io/badge/Group-AnggaBotz-MD/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
+<a href="https://wa.me/62895411940970"><img title="Author" src="https://img.shields.io/badge/Author-AnggaXyzz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.youtube.com/@teambetesa"><img title="YouTube" src="https://img.shields.io/badge/YouTube-AnggaXyzz/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
+<a href="https://chat.whatsapp.com/LRKD0yh1sMg4vrbb5JVFhH"><img title="Group AnggaXyzz" src="https://img.shields.io/badge/Group-AnggaBotz-MD/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
 </p>
 </div>
 <p align="center">
