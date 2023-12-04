@@ -61,3 +61,9 @@ Skrip python telah dirancang dengan mempertimbangkan penggunaan kembali. Saat in
 | SUPPORT ME | LINK |
 |------------|------|
 | **SAWERIA** |[here](https://saweria.co/AnggaXyzz) |
+
+## Status
+
+![AnggaXyzz GitHub stats](https://github-readme-stats.vercel.app/api?username=AnggaXyzz&show_icons=true&theme=radical)
+
+<p align="center"><a href="https://github.com/AnggaXyzZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaXyzz&theme=radical&layout=compact"></a></p>
